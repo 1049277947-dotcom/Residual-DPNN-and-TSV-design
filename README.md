@@ -30,3 +30,7 @@ Note: In the filenames below, () indicates the specific structural layer (W, SiO
 ## Requirements
 
 * Python 3.x
+
+## Notes
+
+Crucially, because different training scripts correspond to specific structural layers (W, SiO2, Si) or metal materials, you must ensure the target dataset filename is correctly updated and specified within the script before running. PRs and issues welcome.
